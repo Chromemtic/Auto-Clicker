@@ -1,0 +1,2 @@
+# Auto-clicker
+First script
